@@ -1,0 +1,17 @@
+record_id,first_author,year,title,journal,doi_or_url,exclusion_reason
+E01,,,,,,Sample size < 1000 only
+E02,,,,,,Sample size < 1000 only
+E03,,,,,,Sample size < 1000 only
+E04,,,,,,Sample size < 1000 only
+E05,,,,,,Sample size < 1000 only
+E06,,,,,,Sample size < 1000 only
+E07,,,,,,Sample size < 1000 only
+E08,,,,,,Population aged < 60 years only
+E09,,,,,,Population aged < 60 years only
+E10,,,,,,Population aged < 60 years only
+E11,,,,,,Population aged < 60 years only
+E12,,,,,,Both sample-size and age criteria
+E13,,,,,,Both sample-size and age criteria
+E14,,,,,,Both sample-size and age criteria
+E15,,,,,,Published in non-SCI(E)-indexed journals
+E16,,,,,,Published in non-SCI(E)-indexed journals

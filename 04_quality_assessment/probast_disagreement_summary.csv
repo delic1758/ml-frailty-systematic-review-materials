@@ -1,0 +1,6 @@
+domain,n_disagreements,resolution_basis
+ROB_Predictors,4,Re-read original Methods / Supplementary Methods; PROBAST guidance applied (conservative judgment toward 'unclear' where reporting was ambiguous)
+ROB_Analysis,3,Re-read original Methods / Statistical Analysis section; conservative judgment toward 'high' where predictor-to-event ratio justification was absent
+App_Predictors,1,Re-read review eligibility criteria against study population definition
+App_Outcome,1,Re-read review eligibility criteria against study outcome definition
+TOTAL,9,Of 98 domain-level judgments (14 studies × 7 domains) 9 were discrepant on first pass; agreement 89/98 (90.8%); Cohen's kappa = 0.82 (substantial agreement); all resolved by consensus
