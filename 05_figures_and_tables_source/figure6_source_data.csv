@@ -1,0 +1,15 @@
+study,study_id,internal_auroc,external_auroc,best_algorithm_class,notes
+Peng et al. 2020,S01,,,Other (Cox-based),AUROC not reported; HR-based survival outcome (HR 11.4 severe vs fit)
+Gomez-Cabrero et al. 2021,S02,,,Other,AUROC not reported; biomarker discovery via OR estimates and SESv signatures
+Wu et al. 2022,S03,0.702,,Random Forest,Internal validation only (10-fold CV)
+Liu et al. 2023,S04,0.701,0.612,XGBoost,Internal + temporal external (CHARLS wave)
+Liu et al. 2024,S05,0.809,0.620,Other (Poisson),Internal + temporal external (CHARLS wave)
+Zhang et al. 2024,S06,0.770,,Random Forest,Internal validation only (4-fold CV + 75:25 split)
+Liu et al. 2025,S07,0.765,0.611,Other (GLMM),Internal + temporal external (CHARLS wave)
+Huang et al. 2024,S08,0.974,0.970,Logistic Regression,External AUROC range 0.963-0.977; single representative point used for plotting
+Du et al. 2024,S09,0.756,,Other (CatBoost),Internal validation only (10-fold CV + bootstrap)
+Hughes et al. 2025,S10,0.981,0.971,Logistic Regression,Binary classification (multiclass internal 0.853 / external 0.823 also reported)
+Park et al. 2025,S11,0.843,,Logistic Regression,Internal validation only (500 bootstrap)
+Qi et al. 2025,S12,0.735,,Random Forest,Internal validation only (7:3 split + 5-fold CV)
+Dong et al. 2025,S13,0.800,0.850,XGBoost,Internal + two independent external cohorts (geographic)
+Isaradech et al. 2025,S14,0.810,0.750,Logistic Regression,Internal + independent external cohort

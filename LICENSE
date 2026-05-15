@@ -1,0 +1,64 @@
+Attribution 4.0 International (CC BY 4.0)
+
+=======================================================================
+
+Copyright (c) 2026 Seungmi Kim, Myung-Jun Shin, Byung Kwan Choi,
+Zoran Obradovic, Daniel J. Rubin, Jong-Hwan Park.
+
+The materials in this repository are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material for any purpose,
+          even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the
+license terms.
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+  No additional restrictions — You may not apply legal terms or
+  technological measures that legally restrict others from doing anything
+  the license permits.
+
+Notices:
+
+  You do not have to comply with the license for elements of the material
+  in the public domain or where your use is permitted by an applicable
+  exception or limitation.
+
+  No warranties are given. The license may not give you all of the
+  permissions necessary for your intended use. For example, other rights
+  such as publicity, privacy, or moral rights may limit how you use the
+  material.
+
+=======================================================================
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+How to attribute:
+
+  Kim S, Shin M-J, Choi BK, Obradovic Z, Rubin DJ, Park J-H. Machine
+  Learning–Based Frailty Prediction in Community-Dwelling Older Adults:
+  Systematic Review Materials. 2026.
+
+  Original publication: Healthcare (Basel), 2026.
+  [DOI to be assigned upon acceptance]
+
+=======================================================================
+
+Note on full-text article PDFs:
+
+  This repository does NOT redistribute full-text PDFs of the 14
+  included studies. Those articles remain under the copyright of their
+  respective publishers. DOIs and bibliographic information for each
+  included study are provided in 03_data_extraction/data_extraction_sheet.xlsx
+  to allow readers to retrieve the originals from authorized sources.
