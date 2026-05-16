@@ -1,0 +1,6 @@
+domain_category,n_discrepancies,resolution_basis
+Predictor count,3,Re-read original Methods / Supplementary Tables; final value based on each study's own labeling
+Prevalence reporting,3,Re-read original Results section; consensus based on most-recent denominator
+Predictor ordering / top-predictor listing,1,Resolved by consensus on reporting order in original Figure/Table
+External-validation classification,1,Re-read original Methods section to confirm temporal vs geographic vs bootstrap-based classification
+TOTAL,8,Of 504 data points 8 were discrepant on first pass (1.6%); all resolved by consensus

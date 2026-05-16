@@ -1,0 +1,23 @@
+study,study_id,task_type,algorithm,validation_type,auroc,notes
+Peng et al. (2020),S01,Classification,Cox-based survival,Internal,,AUROC not reported; HR-based survival outcome (HR 11.4 severe vs fit)
+Gomez-Cabrero et al. (2021),S02,Classification,SESv / Logistic Regression,Internal,,AUROC not reported; biomarker discovery via OR estimates and SESv signatures
+Wu et al. (2022),S03,Trajectory prediction,Random Forest,Internal,0.702,Internal validation only (10-fold CV); trajectory study — not plotted in Figure 4
+Liu et al. (2023),S04,Incident prediction,XGBoost,Internal,0.701,Internal validation (10-fold CV)
+Liu et al. (2023),S04,Incident prediction,XGBoost,Temporal,0.612,Same-cohort temporal validation (CHARLS later wave)
+Liu et al. (2024),S05,Incident prediction,SVM,Internal,0.809,Internal validation (10-fold CV) — best-reported model SVM
+Liu et al. (2024),S05,Incident prediction,XGBoost,Temporal,0.620,Same-cohort temporal validation (CHARLS later wave) — XGBoost
+Zhang et al. (2024),S06,Incident prediction,Random Forest,Internal,0.770,Internal validation (4-fold CV + 75:25 split)
+Zhang et al. (2024),S06,Incident prediction,Random Forest,Temporal,0.750,Same-cohort temporal validation
+Liu et al. (2025),S07,Incident prediction,GLMM,Internal,0.765,Internal validation (10-fold CV); best-reported model GLMM
+Liu et al. (2025),S07,Incident prediction,GLMM,Temporal,0.611,Same-cohort temporal validation (CHARLS later wave)
+Huang et al. (2024),S08,Classification,Logistic Regression,Internal,0.974,Internal validation
+Huang et al. (2024),S08,Classification,Logistic Regression,Temporal,0.963,Same-cohort temporal validation
+Du et al. (2024),S09,Classification,CatBoost,Internal,0.756,Internal validation (10-fold CV + bootstrap)
+Hughes et al. (2025),S10,Classification,CatBoost,Internal,0.980,Internal validation (binary classification)
+Hughes et al. (2025),S10,Classification,CatBoost,Temporal,0.970,Same-cohort temporal validation
+Park et al. (2025),S11,Classification,Logistic Regression,Internal,0.843,Internal validation (500 bootstrap)
+Qi et al. (2025),S12,Classification,Random Forest,Internal,0.735,Internal validation (7:3 split + 5-fold CV)
+Dong et al. (2025),S13,Incident prediction,Cox-based nomogram,Internal,0.800,Internal validation; highest-reported among 36/60/96-month AUCs in development cohort
+Dong et al. (2025),S13,Incident prediction,Cox-based nomogram,External,0.850,Independent external validation; highest-reported among external validation cohorts (across 36/60/96-month AUCs)
+Isaradech et al. (2025),S14,Classification,Logistic Regression,Internal,0.810,Internal validation
+Isaradech et al. (2025),S14,Classification,Logistic Regression,External,0.750,Independent external validation

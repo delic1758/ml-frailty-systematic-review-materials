@@ -1,0 +1,15 @@
+study,study_id,readiness_level,rationale
+Gomez-Cabrero et al. 2021,S02,L1,No deployment tool
+Wu et al. 2022,S03,L1,No deployment tool
+Hughes et al. 2025,S10,L1,No deployment tool
+Park et al. 2025,S11,L1,No deployment tool
+Qi et al. 2025,S12,L1,No deployment tool
+Peng et al. 2020,S01,L2,Deployment concept (EMR-based integration) without external validation
+Zhang et al. 2024,S06,L2,Nomogram without independent external validation
+Du et al. 2024,S09,L2,Risk calculator / internal validation only
+Liu et al. 2023,S04,L3,Web-based prediction system plus external validation
+Liu et al. 2024,S05,L3,Risk scoring tool plus external validation
+Liu et al. 2025,S07,L3,Risk scoring tool plus external validation
+Huang et al. 2024,S08,L3,Web application / Nomogram plus external validation
+Dong et al. 2025,S13,L3,Nomogram plus external validation
+Isaradech et al. 2025,S14,L3,Web application / EMR integration plus external validation
